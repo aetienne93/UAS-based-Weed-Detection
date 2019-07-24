@@ -1,0 +1,6 @@
+classes= 2
+train  = /home/aj/darknet/train_early.txt
+valid = /home/aj/darknet/validate_early.txt
+names = /home/aj/darknet/classes.txt
+backup = /home/aj/darknet/backup1_early
+

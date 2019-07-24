@@ -1,0 +1,5 @@
+./darknet detector train obj_early.data /home/aj/darknet/cfg/yolov3_weeds.cfg /home/aj/darknet/backup_early/ -map -i 0
+
+
+
+

@@ -1,0 +1,5 @@
+classes= 2
+train  = /home/aj/darknet/train_800x800.txt
+valid = /home/aj/darknet/valid_800x800.txt
+names = /home/aj/darknet/classes.txt
+backup = /home/aj/darknet/es_corn_800x800_backup
