@@ -1,0 +1,2 @@
+./darknet detector calc_anchors /home/aj/darknet/es_corn_800x800.data -num_of_clusters 9 -width 736 -height 736
+
