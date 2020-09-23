@@ -1,0 +1,3205 @@
+
+ seen 64 
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155118_049_R.JPG: Predicted in 30.235000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155119_049_R.JPG: Predicted in 30.428000 milli-seconds.
+broadleaf: 28%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155120_049_R.JPG: Predicted in 30.840000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155121_049_R.JPG: Predicted in 30.889000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155122_049_R.JPG: Predicted in 35.984000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155123_049_R.JPG: Predicted in 29.684000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155124_049_R.JPG: Predicted in 30.622000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155125_019_R.JPG: Predicted in 30.458000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155126_019_R.JPG: Predicted in 30.471000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155127_020_R.JPG: Predicted in 30.936000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155128_021_R.JPG: Predicted in 29.981000 milli-seconds.
+broadleaf: 29%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155129_022_R.JPG: Predicted in 32.105000 milli-seconds.
+broadleaf: 36%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155130_023_R.JPG: Predicted in 30.934000 milli-seconds.
+broadleaf: 27%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155131_029_R.JPG: Predicted in 30.234000 milli-seconds.
+broadleaf: 42%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155132_029_R.JPG: Predicted in 29.848000 milli-seconds.
+broadleaf: 45%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155133_029_R.JPG: Predicted in 30.230000 milli-seconds.
+broadleaf: 42%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155134_029_R.JPG: Predicted in 30.302000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155135_029_R.JPG: Predicted in 30.701000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155136_029_R.JPG: Predicted in 30.870000 milli-seconds.
+broadleaf: 33%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155137_030_R.JPG: Predicted in 30.720000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155138_031_R.JPG: Predicted in 30.570000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155139_032_R.JPG: Predicted in 31.527000 milli-seconds.
+broadleaf: 73%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155140_033_R.JPG: Predicted in 29.642000 milli-seconds.
+broadleaf: 63%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155141_039_R.JPG: Predicted in 30.488000 milli-seconds.
+broadleaf: 29%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155142_039_R.JPG: Predicted in 30.399000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155143_039_R.JPG: Predicted in 30.435000 milli-seconds.
+broadleaf: 64%
+broadleaf: 27%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155144_039_R.JPG: Predicted in 30.580000 milli-seconds.
+broadleaf: 84%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155145_039_R.JPG: Predicted in 29.915000 milli-seconds.
+broadleaf: 50%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155146_039_R.JPG: Predicted in 30.383000 milli-seconds.
+broadleaf: 28%
+broadleaf: 100%
+broadleaf: 44%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155227_049_R.JPG: Predicted in 30.701000 milli-seconds.
+broadleaf: 62%
+broadleaf: 36%
+broadleaf: 55%
+broadleaf: 100%
+broadleaf: 57%
+broadleaf: 69%
+broadleaf: 54%
+broadleaf: 57%
+broadleaf: 52%
+broadleaf: 30%
+broadleaf: 27%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155228_049_R.JPG: Predicted in 30.468000 milli-seconds.
+broadleaf: 39%
+broadleaf: 91%
+broadleaf: 95%
+broadleaf: 63%
+broadleaf: 29%
+broadleaf: 32%
+broadleaf: 58%
+broadleaf: 36%
+broadleaf: 32%
+broadleaf: 38%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155229_049_R.JPG: Predicted in 30.505000 milli-seconds.
+broadleaf: 64%
+broadleaf: 95%
+broadleaf: 57%
+broadleaf: 35%
+broadleaf: 50%
+broadleaf: 56%
+broadleaf: 63%
+broadleaf: 76%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155230_049_R.JPG: Predicted in 30.083000 milli-seconds.
+broadleaf: 42%
+broadleaf: 29%
+broadleaf: 36%
+broadleaf: 90%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155231_020_R.JPG: Predicted in 29.999000 milli-seconds.
+broadleaf: 53%
+broadleaf: 38%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155232_019_R.JPG: Predicted in 31.522000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155233_019_R.JPG: Predicted in 29.903000 milli-seconds.
+broadleaf: 57%
+broadleaf: 52%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155234_019_R.JPG: Predicted in 30.747000 milli-seconds.
+broadleaf: 43%
+broadleaf: 67%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155235_019_R.JPG: Predicted in 29.945000 milli-seconds.
+broadleaf: 31%
+broadleaf: 43%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155236_020_R.JPG: Predicted in 30.130000 milli-seconds.
+broadleaf: 57%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155237_021_R.JPG: Predicted in 30.070000 milli-seconds.
+broadleaf: 57%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155238_029_R.JPG: Predicted in 29.827000 milli-seconds.
+broadleaf: 40%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155239_029_R.JPG: Predicted in 30.071000 milli-seconds.
+broadleaf: 89%
+broadleaf: 38%
+broadleaf: 74%
+broadleaf: 54%
+broadleaf: 36%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155240_029_R.JPG: Predicted in 30.527000 milli-seconds.
+broadleaf: 41%
+broadleaf: 72%
+broadleaf: 45%
+broadleaf: 70%
+broadleaf: 47%
+broadleaf: 76%
+broadleaf: 72%
+broadleaf: 89%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155241_029_R.JPG: Predicted in 29.787000 milli-seconds.
+broadleaf: 69%
+broadleaf: 34%
+broadleaf: 61%
+broadleaf: 65%
+broadleaf: 33%
+broadleaf: 38%
+broadleaf: 50%
+broadleaf: 63%
+broadleaf: 46%
+broadleaf: 32%
+broadleaf: 53%
+broadleaf: 28%
+broadleaf: 35%
+broadleaf: 62%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155324_039_R.JPG: Predicted in 30.461000 milli-seconds.
+broadleaf: 51%
+broadleaf: 66%
+broadleaf: 94%
+broadleaf: 49%
+broadleaf: 42%
+broadleaf: 84%
+broadleaf: 41%
+broadleaf: 62%
+broadleaf: 93%
+broadleaf: 97%
+broadleaf: 40%
+broadleaf: 42%
+broadleaf: 99%
+broadleaf: 91%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155325_039_R.JPG: Predicted in 33.149000 milli-seconds.
+broadleaf: 48%
+broadleaf: 81%
+broadleaf: 100%
+broadleaf: 29%
+broadleaf: 33%
+broadleaf: 95%
+broadleaf: 38%
+broadleaf: 44%
+broadleaf: 64%
+broadleaf: 64%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155326_039_R.JPG: Predicted in 30.784000 milli-seconds.
+broadleaf: 95%
+broadleaf: 87%
+broadleaf: 83%
+broadleaf: 41%
+broadleaf: 92%
+broadleaf: 66%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155327_039_R.JPG: Predicted in 30.681000 milli-seconds.
+broadleaf: 52%
+broadleaf: 33%
+broadleaf: 93%
+broadleaf: 97%
+broadleaf: 95%
+broadleaf: 82%
+broadleaf: 73%
+broadleaf: 37%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155328_041_R.JPG: Predicted in 30.437000 milli-seconds.
+broadleaf: 55%
+broadleaf: 63%
+broadleaf: 75%
+broadleaf: 25%
+broadleaf: 48%
+broadleaf: 92%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155329_042_R.JPG: Predicted in 30.239000 milli-seconds.
+broadleaf: 26%
+broadleaf: 85%
+broadleaf: 65%
+broadleaf: 96%
+broadleaf: 75%
+broadleaf: 45%
+broadleaf: 47%
+broadleaf: 59%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155330_043_R.JPG: Predicted in 30.889000 milli-seconds.
+broadleaf: 31%
+broadleaf: 82%
+broadleaf: 41%
+broadleaf: 30%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155331_049_R.JPG: Predicted in 30.271000 milli-seconds.
+broadleaf: 29%
+broadleaf: 100%
+broadleaf: 51%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155332_049_R.JPG: Predicted in 31.405000 milli-seconds.
+broadleaf: 98%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155333_049_R.JPG: Predicted in 30.227000 milli-seconds.
+broadleaf: 30%
+broadleaf: 25%
+broadleaf: 91%
+broadleaf: 91%
+broadleaf: 77%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155334_049_R.JPG: Predicted in 30.409000 milli-seconds.
+broadleaf: 36%
+broadleaf: 96%
+broadleaf: 42%
+broadleaf: 86%
+broadleaf: 88%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155335_049_R.JPG: Predicted in 30.869000 milli-seconds.
+broadleaf: 98%
+broadleaf: 82%
+broadleaf: 63%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155336_049_R.JPG: Predicted in 29.931000 milli-seconds.
+broadleaf: 41%
+broadleaf: 67%
+broadleaf: 27%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155337_049_R.JPG: Predicted in 30.559000 milli-seconds.
+broadleaf: 32%
+broadleaf: 50%
+broadleaf: 59%
+broadleaf: 90%
+broadleaf: 43%
+broadleaf: 34%
+broadleaf: 30%
+broadleaf: 40%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155338_019_R.JPG: Predicted in 30.779000 milli-seconds.
+broadleaf: 36%
+broadleaf: 33%
+broadleaf: 70%
+broadleaf: 40%
+broadleaf: 36%
+broadleaf: 48%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155339_019_R.JPG: Predicted in 31.188000 milli-seconds.
+broadleaf: 46%
+broadleaf: 50%
+broadleaf: 83%
+broadleaf: 34%
+broadleaf: 61%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155340_019_R.JPG: Predicted in 30.848000 milli-seconds.
+broadleaf: 32%
+broadleaf: 59%
+broadleaf: 85%
+broadleaf: 96%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155341_019_R.JPG: Predicted in 30.507000 milli-seconds.
+broadleaf: 72%
+broadleaf: 44%
+broadleaf: 91%
+broadleaf: 57%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155342_022_R.JPG: Predicted in 30.564000 milli-seconds.
+broadleaf: 35%
+broadleaf: 56%
+broadleaf: 93%
+broadleaf: 64%
+broadleaf: 69%
+broadleaf: 56%
+broadleaf: 60%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155343_023_R.JPG: Predicted in 30.523000 milli-seconds.
+broadleaf: 98%
+broadleaf: 82%
+broadleaf: 64%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155344_024_R.JPG: Predicted in 29.985000 milli-seconds.
+broadleaf: 49%
+broadleaf: 83%
+broadleaf: 97%
+broadleaf: 69%
+broadleaf: 97%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155345_029_R.JPG: Predicted in 30.462000 milli-seconds.
+broadleaf: 50%
+broadleaf: 76%
+broadleaf: 97%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155346_029_R.JPG: Predicted in 30.903000 milli-seconds.
+broadleaf: 27%
+broadleaf: 53%
+broadleaf: 95%
+broadleaf: 76%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155347_029_R.JPG: Predicted in 30.602000 milli-seconds.
+broadleaf: 43%
+broadleaf: 98%
+broadleaf: 51%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155348_029_R.JPG: Predicted in 32.801000 milli-seconds.
+broadleaf: 47%
+broadleaf: 85%
+broadleaf: 88%
+broadleaf: 28%
+broadleaf: 47%
+broadleaf: 64%
+broadleaf: 55%
+broadleaf: 52%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155349_029_R.JPG: Predicted in 30.629000 milli-seconds.
+broadleaf: 28%
+broadleaf: 47%
+broadleaf: 84%
+broadleaf: 42%
+broadleaf: 29%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155350_029_R.JPG: Predicted in 30.235000 milli-seconds.
+broadleaf: 99%
+broadleaf: 36%
+broadleaf: 26%
+broadleaf: 70%
+broadleaf: 60%
+broadleaf: 51%
+broadleaf: 36%
+broadleaf: 71%
+broadleaf: 27%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155351_031_R.JPG: Predicted in 30.778000 milli-seconds.
+broadleaf: 53%
+broadleaf: 62%
+broadleaf: 75%
+broadleaf: 73%
+broadleaf: 46%
+broadleaf: 51%
+broadleaf: 58%
+broadleaf: 35%
+broadleaf: 26%
+broadleaf: 44%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155352_032_R.JPG: Predicted in 30.914000 milli-seconds.
+broadleaf: 32%
+broadleaf: 44%
+broadleaf: 63%
+broadleaf: 71%
+broadleaf: 45%
+broadleaf: 64%
+broadleaf: 75%
+broadleaf: 65%
+broadleaf: 64%
+broadleaf: 61%
+broadleaf: 66%
+broadleaf: 44%
+broadleaf: 73%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155353_033_R.JPG: Predicted in 31.160000 milli-seconds.
+broadleaf: 38%
+broadleaf: 29%
+broadleaf: 61%
+broadleaf: 67%
+broadleaf: 66%
+broadleaf: 55%
+broadleaf: 62%
+broadleaf: 40%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155354_034_R.JPG: Predicted in 31.052000 milli-seconds.
+broadleaf: 35%
+broadleaf: 34%
+broadleaf: 26%
+broadleaf: 52%
+broadleaf: 28%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155355_039_R.JPG: Predicted in 29.690000 milli-seconds.
+broadleaf: 32%
+broadleaf: 28%
+broadleaf: 34%
+broadleaf: 27%
+broadleaf: 28%
+broadleaf: 28%
+broadleaf: 72%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155356_039_R.JPG: Predicted in 30.463000 milli-seconds.
+broadleaf: 32%
+broadleaf: 31%
+broadleaf: 57%
+broadleaf: 41%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155357_039_R.JPG: Predicted in 31.973000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155358_039_R.JPG: Predicted in 30.315000 milli-seconds.
+broadleaf: 51%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155359_039_R.JPG: Predicted in 31.595000 milli-seconds.
+broadleaf: 28%
+broadleaf: 33%
+broadleaf: 35%
+broadleaf: 47%
+broadleaf: 29%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155400_039_R.JPG: Predicted in 30.134000 milli-seconds.
+broadleaf: 79%
+broadleaf: 32%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155401_042_R.JPG: Predicted in 30.151000 milli-seconds.
+broadleaf: 74%
+broadleaf: 43%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155402_042_R.JPG: Predicted in 29.855000 milli-seconds.
+broadleaf: 25%
+broadleaf: 29%
+broadleaf: 27%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155403_043_R.JPG: Predicted in 30.790000 milli-seconds.
+broadleaf: 40%
+broadleaf: 80%
+broadleaf: 35%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155404_044_R.JPG: Predicted in 30.445000 milli-seconds.
+monocot: 34%
+broadleaf: 78%
+broadleaf: 41%
+broadleaf: 100%
+broadleaf: 42%
+broadleaf: 89%
+broadleaf: 91%
+broadleaf: 35%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155405_049_R.JPG: Predicted in 30.545000 milli-seconds.
+broadleaf: 29%
+broadleaf: 31%
+broadleaf: 56%
+broadleaf: 100%
+broadleaf: 69%
+broadleaf: 80%
+broadleaf: 96%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 60%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155406_049_R.JPG: Predicted in 30.436000 milli-seconds.
+broadleaf: 82%
+broadleaf: 83%
+broadleaf: 54%
+broadleaf: 78%
+broadleaf: 76%
+broadleaf: 99%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 94%
+broadleaf: 75%
+broadleaf: 100%
+broadleaf: 68%
+broadleaf: 70%
+broadleaf: 99%
+broadleaf: 79%
+broadleaf: 31%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155407_049_R.JPG: Predicted in 30.192000 milli-seconds.
+broadleaf: 100%
+broadleaf: 81%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 99%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 70%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155408_049_R.JPG: Predicted in 32.426000 milli-seconds.
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155409_049_R.JPG: Predicted in 30.478000 milli-seconds.
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 89%
+broadleaf: 96%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155410_049_R.JPG: Predicted in 30.299000 milli-seconds.
+broadleaf: 100%
+monocot: 99%
+broadleaf: 99%
+monocot: 67%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+monocot: 91%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155411_020_R.JPG: Predicted in 30.758000 milli-seconds.
+broadleaf: 100%
+broadleaf: 100%
+monocot: 100%
+monocot: 89%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+monocot: 85%
+broadleaf: 99%
+broadleaf: 90%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155412_019_R.JPG: Predicted in 31.741000 milli-seconds.
+broadleaf: 82%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 94%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 72%
+broadleaf: 100%
+broadleaf: 93%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155413_019_R.JPG: Predicted in 30.300000 milli-seconds.
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 89%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155414_021_R.JPG: Predicted in 30.637000 milli-seconds.
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 85%
+broadleaf: 28%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 90%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 80%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155415_021_R.JPG: Predicted in 30.895000 milli-seconds.
+broadleaf: 95%
+broadleaf: 99%
+broadleaf: 93%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 91%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 99%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 95%
+broadleaf: 96%
+broadleaf: 93%
+broadleaf: 97%
+broadleaf: 99%
+broadleaf: 75%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155416_022_R.JPG: Predicted in 32.527000 milli-seconds.
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 89%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 87%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 99%
+broadleaf: 75%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 88%
+broadleaf: 100%
+broadleaf: 92%
+broadleaf: 90%
+broadleaf: 90%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155417_022_R.JPG: Predicted in 32.149000 milli-seconds.
+broadleaf: 84%
+broadleaf: 94%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 98%
+broadleaf: 95%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 95%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 71%
+broadleaf: 83%
+broadleaf: 98%
+broadleaf: 99%
+broadleaf: 45%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155418_029_R.JPG: Predicted in 29.899000 milli-seconds.
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 73%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 90%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155419_029_R.JPG: Predicted in 30.490000 milli-seconds.
+broadleaf: 100%
+broadleaf: 68%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 70%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155420_029_R.JPG: Predicted in 30.774000 milli-seconds.
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 95%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 28%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155421_029_R.JPG: Predicted in 30.690000 milli-seconds.
+broadleaf: 93%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 87%
+broadleaf: 99%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+monocot: 99%
+broadleaf: 97%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155422_029_R.JPG: Predicted in 30.642000 milli-seconds.
+broadleaf: 75%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+monocot: 98%
+broadleaf: 98%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155423_029_R.JPG: Predicted in 30.642000 milli-seconds.
+broadleaf: 93%
+broadleaf: 100%
+broadleaf: 90%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 91%
+broadleaf: 92%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 99%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155424_031_R.JPG: Predicted in 30.783000 milli-seconds.
+broadleaf: 88%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 86%
+broadleaf: 100%
+broadleaf: 86%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 38%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155425_031_R.JPG: Predicted in 34.139000 milli-seconds.
+broadleaf: 79%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155426_032_R.JPG: Predicted in 30.550000 milli-seconds.
+broadleaf: 99%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 79%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 88%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155427_033_R.JPG: Predicted in 31.932000 milli-seconds.
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155428_039_R.JPG: Predicted in 30.435000 milli-seconds.
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 98%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 92%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155429_039_R.JPG: Predicted in 30.655000 milli-seconds.
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155430_039_R.JPG: Predicted in 32.855000 milli-seconds.
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 87%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 95%
+broadleaf: 99%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155431_039_R.JPG: Predicted in 29.547000 milli-seconds.
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 97%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 81%
+broadleaf: 98%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155432_039_R.JPG: Predicted in 31.006000 milli-seconds.
+broadleaf: 97%
+broadleaf: 84%
+broadleaf: 100%
+broadleaf: 94%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 95%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 83%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 85%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 98%
+broadleaf: 94%
+broadleaf: 88%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155433_039_R.JPG: Predicted in 30.591000 milli-seconds.
+broadleaf: 100%
+broadleaf: 100%
+monocot: 100%
+broadleaf: 100%
+broadleaf: 94%
+broadleaf: 99%
+broadleaf: 94%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 77%
+broadleaf: 97%
+broadleaf: 98%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155434_039_R.JPG: Predicted in 30.870000 milli-seconds.
+broadleaf: 32%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 97%
+broadleaf: 99%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155435_039_R.JPG: Predicted in 30.561000 milli-seconds.
+broadleaf: 99%
+broadleaf: 94%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155436_040_R.JPG: Predicted in 30.368000 milli-seconds.
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 46%
+broadleaf: 94%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155437_041_R.JPG: Predicted in 31.056000 milli-seconds.
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155438_049_R.JPG: Predicted in 31.470000 milli-seconds.
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 94%
+broadleaf: 95%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 98%
+monocot: 98%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155439_049_R.JPG: Predicted in 30.656000 milli-seconds.
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 78%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 86%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155440_049_R.JPG: Predicted in 30.414000 milli-seconds.
+broadleaf: 57%
+broadleaf: 99%
+broadleaf: 46%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 93%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155441_049_R.JPG: Predicted in 30.810000 milli-seconds.
+broadleaf: 99%
+broadleaf: 98%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+monocot: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 94%
+broadleaf: 100%
+broadleaf: 100%
+monocot: 97%
+monocot: 72%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155442_049_R.JPG: Predicted in 30.743000 milli-seconds.
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155443_049_R.JPG: Predicted in 30.835000 milli-seconds.
+broadleaf: 100%
+broadleaf: 91%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 96%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155444_049_R.JPG: Predicted in 30.133000 milli-seconds.
+broadleaf: 28%
+broadleaf: 92%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 92%
+broadleaf: 34%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 83%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 90%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 62%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 90%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155445_019_R.JPG: Predicted in 29.963000 milli-seconds.
+broadleaf: 34%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 98%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 86%
+broadleaf: 97%
+broadleaf: 90%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155446_019_R.JPG: Predicted in 30.766000 milli-seconds.
+broadleaf: 99%
+broadleaf: 97%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 40%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155447_019_R.JPG: Predicted in 31.012000 milli-seconds.
+broadleaf: 85%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 94%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 100%
+monocot: 76%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 98%
+monocot: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 86%
+broadleaf: 31%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155448_021_R.JPG: Predicted in 31.968000 milli-seconds.
+broadleaf: 94%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 88%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 95%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 92%
+broadleaf: 93%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155449_022_R.JPG: Predicted in 30.836000 milli-seconds.
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 95%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155450_024_R.JPG: Predicted in 30.800000 milli-seconds.
+broadleaf: 100%
+broadleaf: 90%
+broadleaf: 100%
+monocot: 98%
+broadleaf: 99%
+broadleaf: 100%
+monocot: 98%
+monocot: 29%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 78%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155451_029_R.JPG: Predicted in 30.977000 milli-seconds.
+broadleaf: 97%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 66%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 90%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155452_029_R.JPG: Predicted in 32.200000 milli-seconds.
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155453_029_R.JPG: Predicted in 30.884000 milli-seconds.
+broadleaf: 98%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 60%
+broadleaf: 100%
+broadleaf: 54%
+broadleaf: 26%
+broadleaf: 65%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155500_031_R.JPG: Predicted in 30.839000 milli-seconds.
+broadleaf: 100%
+monocot: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 83%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 79%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155501_039_R.JPG: Predicted in 30.925000 milli-seconds.
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 86%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155502_039_R.JPG: Predicted in 30.924000 milli-seconds.
+broadleaf: 100%
+broadleaf: 93%
+broadleaf: 28%
+broadleaf: 69%
+broadleaf: 100%
+broadleaf: 71%
+broadleaf: 100%
+broadleaf: 92%
+broadleaf: 100%
+broadleaf: 91%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 93%
+broadleaf: 26%
+broadleaf: 90%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155513_049_R.JPG: Predicted in 30.842000 milli-seconds.
+broadleaf: 96%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+monocot: 97%
+broadleaf: 98%
+broadleaf: 90%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 83%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 30%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155514_049_R.JPG: Predicted in 30.811000 milli-seconds.
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 35%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 93%
+broadleaf: 94%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155515_049_R.JPG: Predicted in 30.263000 milli-seconds.
+broadleaf: 97%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 90%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 96%
+broadleaf: 98%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155516_049_R.JPG: Predicted in 30.148000 milli-seconds.
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 85%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 94%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 91%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155517_049_R.JPG: Predicted in 31.293000 milli-seconds.
+broadleaf: 99%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 91%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 94%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 96%
+broadleaf: 100%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155518_020_R.JPG: Predicted in 31.438000 milli-seconds.
+broadleaf: 28%
+broadleaf: 33%
+broadleaf: 100%
+broadleaf: 81%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 91%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 93%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 98%
+broadleaf: 100%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155519_019_R.JPG: Predicted in 30.433000 milli-seconds.
+broadleaf: 44%
+broadleaf: 100%
+broadleaf: 56%
+broadleaf: 95%
+broadleaf: 98%
+broadleaf: 82%
+broadleaf: 100%
+broadleaf: 97%
+broadleaf: 88%
+broadleaf: 100%
+broadleaf: 33%
+broadleaf: 99%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155520_019_R.JPG: Predicted in 30.201000 milli-seconds.
+broadleaf: 98%
+broadleaf: 91%
+broadleaf: 37%
+broadleaf: 89%
+broadleaf: 97%
+broadleaf: 98%
+broadleaf: 30%
+broadleaf: 55%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155521_019_R.JPG: Predicted in 30.031000 milli-seconds.
+broadleaf: 26%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155522_020_R.JPG: Predicted in 29.836000 milli-seconds.
+broadleaf: 51%
+broadleaf: 26%
+broadleaf: 62%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155523_021_R.JPG: Predicted in 29.990000 milli-seconds.
+broadleaf: 83%
+broadleaf: 48%
+broadleaf: 47%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155524_022_R.JPG: Predicted in 30.389000 milli-seconds.
+broadleaf: 49%
+broadleaf: 41%
+broadleaf: 60%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155525_029_R.JPG: Predicted in 30.209000 milli-seconds.
+broadleaf: 56%
+broadleaf: 34%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155526_029_R.JPG: Predicted in 30.657000 milli-seconds.
+broadleaf: 72%
+broadleaf: 28%
+broadleaf: 33%
+broadleaf: 75%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155527_029_R.JPG: Predicted in 31.197000 milli-seconds.
+broadleaf: 65%
+broadleaf: 58%
+broadleaf: 70%
+broadleaf: 44%
+broadleaf: 29%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155528_029_R.JPG: Predicted in 30.768000 milli-seconds.
+broadleaf: 50%
+broadleaf: 28%
+broadleaf: 35%
+broadleaf: 97%
+broadleaf: 53%
+broadleaf: 46%
+broadleaf: 28%
+broadleaf: 87%
+broadleaf: 70%
+broadleaf: 97%
+broadleaf: 59%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155529_029_R.JPG: Predicted in 31.155000 milli-seconds.
+broadleaf: 67%
+broadleaf: 98%
+broadleaf: 91%
+broadleaf: 77%
+broadleaf: 63%
+broadleaf: 63%
+broadleaf: 97%
+broadleaf: 36%
+broadleaf: 44%
+broadleaf: 40%
+broadleaf: 54%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155530_029_R.JPG: Predicted in 30.757000 milli-seconds.
+broadleaf: 30%
+broadleaf: 88%
+broadleaf: 71%
+broadleaf: 55%
+broadleaf: 31%
+broadleaf: 94%
+broadleaf: 75%
+broadleaf: 91%
+broadleaf: 85%
+broadleaf: 63%
+broadleaf: 35%
+broadleaf: 87%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155545_049_R.JPG: Predicted in 30.334000 milli-seconds.
+broadleaf: 32%
+broadleaf: 74%
+broadleaf: 80%
+broadleaf: 29%
+broadleaf: 91%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155548_049_R.JPG: Predicted in 30.670000 milli-seconds.
+broadleaf: 52%
+broadleaf: 34%
+broadleaf: 32%
+broadleaf: 68%
+broadleaf: 78%
+broadleaf: 96%
+broadleaf: 34%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155551_020_R.JPG: Predicted in 30.327000 milli-seconds.
+broadleaf: 32%
+broadleaf: 29%
+broadleaf: 95%
+broadleaf: 89%
+broadleaf: 100%
+broadleaf: 62%
+broadleaf: 99%
+broadleaf: 26%
+broadleaf: 29%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155552_019_R.JPG: Predicted in 30.457000 milli-seconds.
+broadleaf: 100%
+broadleaf: 92%
+monocot: 29%
+broadleaf: 66%
+broadleaf: 25%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155553_019_R.JPG: Predicted in 30.591000 milli-seconds.
+broadleaf: 51%
+broadleaf: 100%
+broadleaf: 73%
+broadleaf: 95%
+broadleaf: 98%
+broadleaf: 85%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155554_019_R.JPG: Predicted in 30.478000 milli-seconds.
+broadleaf: 38%
+broadleaf: 88%
+broadleaf: 61%
+broadleaf: 35%
+broadleaf: 97%
+broadleaf: 99%
+broadleaf: 98%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155555_021_R.JPG: Predicted in 30.431000 milli-seconds.
+broadleaf: 52%
+broadleaf: 74%
+broadleaf: 74%
+broadleaf: 26%
+broadleaf: 25%
+broadleaf: 92%
+broadleaf: 89%
+broadleaf: 25%
+broadleaf: 64%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155556_022_R.JPG: Predicted in 30.536000 milli-seconds.
+broadleaf: 27%
+broadleaf: 38%
+broadleaf: 67%
+broadleaf: 49%
+broadleaf: 53%
+broadleaf: 29%
+broadleaf: 74%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155557_023_R.JPG: Predicted in 30.391000 milli-seconds.
+broadleaf: 38%
+broadleaf: 56%
+broadleaf: 43%
+broadleaf: 97%
+broadleaf: 34%
+broadleaf: 82%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155558_029_R.JPG: Predicted in 30.482000 milli-seconds.
+broadleaf: 36%
+broadleaf: 75%
+broadleaf: 51%
+broadleaf: 73%
+broadleaf: 80%
+broadleaf: 95%
+broadleaf: 38%
+broadleaf: 30%
+broadleaf: 66%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155559_029_R.JPG: Predicted in 30.531000 milli-seconds.
+broadleaf: 86%
+broadleaf: 95%
+broadleaf: 74%
+broadleaf: 28%
+broadleaf: 80%
+broadleaf: 37%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155600_029_R.JPG: Predicted in 30.417000 milli-seconds.
+broadleaf: 33%
+broadleaf: 27%
+broadleaf: 25%
+broadleaf: 73%
+broadleaf: 92%
+broadleaf: 56%
+broadleaf: 56%
+broadleaf: 73%
+broadleaf: 27%
+broadleaf: 71%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155601_029_R.JPG: Predicted in 30.160000 milli-seconds.
+broadleaf: 55%
+broadleaf: 56%
+broadleaf: 83%
+broadleaf: 89%
+broadleaf: 66%
+broadleaf: 45%
+broadleaf: 100%
+broadleaf: 32%
+broadleaf: 81%
+broadleaf: 33%
+broadleaf: 50%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155602_029_R.JPG: Predicted in 30.445000 milli-seconds.
+broadleaf: 76%
+broadleaf: 58%
+broadleaf: 91%
+broadleaf: 97%
+broadleaf: 97%
+broadleaf: 51%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155603_029_R.JPG: Predicted in 29.836000 milli-seconds.
+broadleaf: 27%
+broadleaf: 92%
+broadleaf: 64%
+broadleaf: 48%
+broadleaf: 93%
+broadleaf: 73%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155604_029_R.JPG: Predicted in 30.297000 milli-seconds.
+broadleaf: 74%
+broadleaf: 39%
+broadleaf: 73%
+broadleaf: 94%
+broadleaf: 88%
+broadleaf: 86%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155605_031_R.JPG: Predicted in 30.496000 milli-seconds.
+broadleaf: 80%
+broadleaf: 71%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155606_032_R.JPG: Predicted in 30.792000 milli-seconds.
+broadleaf: 42%
+broadleaf: 28%
+broadleaf: 95%
+broadleaf: 99%
+broadleaf: 77%
+broadleaf: 88%
+broadleaf: 61%
+broadleaf: 27%
+broadleaf: 46%
+broadleaf: 42%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155607_033_R.JPG: Predicted in 30.889000 milli-seconds.
+broadleaf: 93%
+broadleaf: 74%
+broadleaf: 40%
+broadleaf: 47%
+broadleaf: 88%
+broadleaf: 81%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155608_039_R.JPG: Predicted in 30.849000 milli-seconds.
+broadleaf: 53%
+broadleaf: 84%
+broadleaf: 45%
+broadleaf: 72%
+broadleaf: 64%
+broadleaf: 66%
+broadleaf: 97%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155609_039_R.JPG: Predicted in 31.170000 milli-seconds.
+broadleaf: 61%
+broadleaf: 98%
+broadleaf: 39%
+broadleaf: 56%
+broadleaf: 98%
+broadleaf: 89%
+broadleaf: 98%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155620_049_R.JPG: Predicted in 30.496000 milli-seconds.
+broadleaf: 66%
+broadleaf: 80%
+broadleaf: 45%
+broadleaf: 33%
+broadleaf: 74%
+broadleaf: 52%
+broadleaf: 26%
+broadleaf: 71%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155621_049_R.JPG: Predicted in 30.224000 milli-seconds.
+broadleaf: 29%
+broadleaf: 73%
+broadleaf: 42%
+broadleaf: 28%
+broadleaf: 54%
+broadleaf: 27%
+broadleaf: 41%
+broadleaf: 56%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155622_049_R.JPG: Predicted in 29.911000 milli-seconds.
+broadleaf: 89%
+broadleaf: 27%
+broadleaf: 57%
+broadleaf: 80%
+broadleaf: 26%
+broadleaf: 33%
+broadleaf: 42%
+broadleaf: 95%
+broadleaf: 28%
+broadleaf: 26%
+broadleaf: 50%
+broadleaf: 96%
+broadleaf: 95%
+broadleaf: 31%
+broadleaf: 28%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155623_049_R.JPG: Predicted in 29.869000 milli-seconds.
+broadleaf: 93%
+broadleaf: 28%
+broadleaf: 67%
+broadleaf: 56%
+broadleaf: 91%
+broadleaf: 70%
+broadleaf: 30%
+broadleaf: 71%
+broadleaf: 67%
+broadleaf: 52%
+broadleaf: 42%
+broadleaf: 50%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155624_049_R.JPG: Predicted in 30.340000 milli-seconds.
+broadleaf: 33%
+broadleaf: 70%
+broadleaf: 40%
+broadleaf: 50%
+broadleaf: 70%
+broadleaf: 99%
+broadleaf: 96%
+broadleaf: 76%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155625_019_R.JPG: Predicted in 30.612000 milli-seconds.
+broadleaf: 46%
+broadleaf: 49%
+broadleaf: 74%
+broadleaf: 70%
+broadleaf: 93%
+broadleaf: 62%
+broadleaf: 67%
+broadleaf: 64%
+broadleaf: 93%
+broadleaf: 78%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155626_019_R.JPG: Predicted in 30.715000 milli-seconds.
+broadleaf: 58%
+broadleaf: 89%
+broadleaf: 84%
+broadleaf: 27%
+broadleaf: 96%
+broadleaf: 98%
+broadleaf: 51%
+broadleaf: 48%
+broadleaf: 91%
+broadleaf: 51%
+broadleaf: 57%
+broadleaf: 58%
+broadleaf: 84%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155627_019_R.JPG: Predicted in 30.820000 milli-seconds.
+broadleaf: 100%
+broadleaf: 79%
+broadleaf: 95%
+broadleaf: 55%
+broadleaf: 78%
+broadleaf: 92%
+broadleaf: 93%
+broadleaf: 82%
+broadleaf: 85%
+broadleaf: 35%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155628_021_R.JPG: Predicted in 30.612000 milli-seconds.
+broadleaf: 90%
+broadleaf: 99%
+broadleaf: 45%
+broadleaf: 29%
+broadleaf: 71%
+broadleaf: 61%
+broadleaf: 71%
+broadleaf: 81%
+broadleaf: 70%
+broadleaf: 60%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155629_022_R.JPG: Predicted in 30.954000 milli-seconds.
+broadleaf: 65%
+broadleaf: 34%
+broadleaf: 33%
+broadleaf: 33%
+broadleaf: 27%
+broadleaf: 55%
+broadleaf: 39%
+broadleaf: 25%
+broadleaf: 94%
+broadleaf: 70%
+broadleaf: 71%
+broadleaf: 29%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155630_023_R.JPG: Predicted in 32.301000 milli-seconds.
+broadleaf: 65%
+broadleaf: 98%
+broadleaf: 48%
+broadleaf: 89%
+broadleaf: 43%
+broadleaf: 70%
+broadleaf: 73%
+broadleaf: 89%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155631_024_R.JPG: Predicted in 32.036000 milli-seconds.
+broadleaf: 53%
+broadleaf: 86%
+broadleaf: 76%
+broadleaf: 26%
+broadleaf: 92%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155632_029_R.JPG: Predicted in 31.134000 milli-seconds.
+broadleaf: 83%
+broadleaf: 68%
+broadleaf: 36%
+broadleaf: 29%
+broadleaf: 92%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155633_029_R.JPG: Predicted in 30.903000 milli-seconds.
+broadleaf: 95%
+broadleaf: 55%
+broadleaf: 41%
+broadleaf: 37%
+broadleaf: 38%
+broadleaf: 33%
+broadleaf: 30%
+broadleaf: 69%
+broadleaf: 36%
+broadleaf: 30%
+broadleaf: 34%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155634_029_R.JPG: Predicted in 33.197000 milli-seconds.
+broadleaf: 60%
+broadleaf: 30%
+broadleaf: 86%
+broadleaf: 87%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155635_029_R.JPG: Predicted in 30.451000 milli-seconds.
+broadleaf: 80%
+broadleaf: 65%
+broadleaf: 98%
+broadleaf: 69%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155636_029_R.JPG: Predicted in 30.315000 milli-seconds.
+broadleaf: 51%
+broadleaf: 87%
+broadleaf: 65%
+broadleaf: 47%
+broadleaf: 57%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155637_029_R.JPG: Predicted in 30.067000 milli-seconds.
+broadleaf: 98%
+broadleaf: 72%
+broadleaf: 39%
+broadleaf: 37%
+broadleaf: 27%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155638_031_R.JPG: Predicted in 29.819000 milli-seconds.
+broadleaf: 61%
+broadleaf: 58%
+broadleaf: 97%
+broadleaf: 41%
+broadleaf: 25%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155639_032_R.JPG: Predicted in 29.946000 milli-seconds.
+broadleaf: 63%
+broadleaf: 61%
+broadleaf: 94%
+broadleaf: 59%
+broadleaf: 75%
+broadleaf: 52%
+broadleaf: 49%
+broadleaf: 61%
+broadleaf: 66%
+broadleaf: 76%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155640_033_R.JPG: Predicted in 32.861000 milli-seconds.
+broadleaf: 39%
+broadleaf: 86%
+broadleaf: 35%
+broadleaf: 65%
+broadleaf: 42%
+broadleaf: 32%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155641_034_R.JPG: Predicted in 33.984000 milli-seconds.
+broadleaf: 62%
+broadleaf: 48%
+broadleaf: 80%
+broadleaf: 56%
+broadleaf: 29%
+broadleaf: 94%
+broadleaf: 67%
+broadleaf: 97%
+broadleaf: 80%
+broadleaf: 47%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155642_039_R.JPG: Predicted in 32.850000 milli-seconds.
+broadleaf: 61%
+broadleaf: 70%
+broadleaf: 29%
+broadleaf: 80%
+broadleaf: 74%
+broadleaf: 52%
+broadleaf: 38%
+broadleaf: 96%
+broadleaf: 71%
+broadleaf: 53%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155643_039_R.JPG: Predicted in 34.541000 milli-seconds.
+broadleaf: 25%
+broadleaf: 68%
+broadleaf: 73%
+broadleaf: 94%
+broadleaf: 44%
+broadleaf: 94%
+broadleaf: 100%
+broadleaf: 39%
+broadleaf: 36%
+broadleaf: 26%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155644_039_R.JPG: Predicted in 33.749000 milli-seconds.
+broadleaf: 60%
+broadleaf: 99%
+broadleaf: 80%
+broadleaf: 49%
+broadleaf: 96%
+broadleaf: 25%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155645_039_R.JPG: Predicted in 30.220000 milli-seconds.
+broadleaf: 40%
+broadleaf: 47%
+broadleaf: 99%
+broadleaf: 91%
+broadleaf: 96%
+broadleaf: 57%
+broadleaf: 34%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155646_039_R.JPG: Predicted in 32.321000 milli-seconds.
+broadleaf: 39%
+broadleaf: 65%
+broadleaf: 83%
+broadleaf: 62%
+broadleaf: 34%
+broadleaf: 30%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155647_039_R.JPG: Predicted in 32.731000 milli-seconds.
+broadleaf: 40%
+broadleaf: 55%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155648_041_R.JPG: Predicted in 33.443000 milli-seconds.
+broadleaf: 32%
+broadleaf: 35%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155649_042_R.JPG: Predicted in 35.344000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155650_043_R.JPG: Predicted in 33.295000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155651_043_R.JPG: Predicted in 31.707000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155652_049_R.JPG: Predicted in 30.200000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155653_049_R.JPG: Predicted in 32.638000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155654_049_R.JPG: Predicted in 33.178000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155655_049_R.JPG: Predicted in 31.787000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155656_049_R.JPG: Predicted in 32.689000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155657_049_R.JPG: Predicted in 34.123000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155658_020_R.JPG: Predicted in 34.176000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155659_019_R.JPG: Predicted in 29.827000 milli-seconds.
+broadleaf: 46%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155700_019_R.JPG: Predicted in 30.428000 milli-seconds.
+broadleaf: 29%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155701_019_R.JPG: Predicted in 36.086000 milli-seconds.
+broadleaf: 50%
+broadleaf: 28%
+broadleaf: 53%
+broadleaf: 53%
+broadleaf: 79%
+broadleaf: 91%
+broadleaf: 70%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155702_020_R.JPG: Predicted in 35.304000 milli-seconds.
+broadleaf: 83%
+broadleaf: 58%
+broadleaf: 93%
+broadleaf: 86%
+broadleaf: 74%
+broadleaf: 93%
+broadleaf: 41%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155703_021_R.JPG: Predicted in 32.264000 milli-seconds.
+broadleaf: 74%
+broadleaf: 96%
+broadleaf: 97%
+broadleaf: 86%
+broadleaf: 71%
+broadleaf: 99%
+broadleaf: 70%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155704_022_R.JPG: Predicted in 30.108000 milli-seconds.
+broadleaf: 98%
+broadleaf: 26%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 95%
+broadleaf: 88%
+broadleaf: 84%
+broadleaf: 98%
+broadleaf: 63%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155705_029_R.JPG: Predicted in 30.894000 milli-seconds.
+broadleaf: 63%
+broadleaf: 82%
+broadleaf: 86%
+broadleaf: 83%
+broadleaf: 96%
+broadleaf: 36%
+broadleaf: 86%
+broadleaf: 98%
+broadleaf: 72%
+broadleaf: 60%
+broadleaf: 79%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155706_029_R.JPG: Predicted in 34.231000 milli-seconds.
+broadleaf: 52%
+broadleaf: 76%
+broadleaf: 33%
+broadleaf: 81%
+broadleaf: 88%
+broadleaf: 27%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155707_029_R.JPG: Predicted in 33.935000 milli-seconds.
+broadleaf: 91%
+broadleaf: 70%
+broadleaf: 28%
+broadleaf: 77%
+broadleaf: 59%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155708_029_R.JPG: Predicted in 33.637000 milli-seconds.
+broadleaf: 65%
+broadleaf: 82%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155709_029_R.JPG: Predicted in 32.902000 milli-seconds.
+broadleaf: 64%
+broadleaf: 94%
+broadleaf: 49%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155710_029_R.JPG: Predicted in 32.401000 milli-seconds.
+broadleaf: 87%
+broadleaf: 85%
+broadleaf: 25%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155711_029_R.JPG: Predicted in 36.536000 milli-seconds.
+broadleaf: 96%
+broadleaf: 94%
+broadleaf: 42%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155712_030_R.JPG: Predicted in 34.709000 milli-seconds.
+broadleaf: 37%
+broadleaf: 78%
+broadleaf: 51%
+broadleaf: 98%
+broadleaf: 41%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155713_033_R.JPG: Predicted in 34.957000 milli-seconds.
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155714_032_R.JPG: Predicted in 33.824000 milli-seconds.
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155715_039_R.JPG: Predicted in 33.901000 milli-seconds.
+broadleaf: 74%
+broadleaf: 86%
+broadleaf: 50%
+broadleaf: 37%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155716_039_R.JPG: Predicted in 33.710000 milli-seconds.
+broadleaf: 61%
+broadleaf: 81%
+broadleaf: 87%
+broadleaf: 36%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155717_039_R.JPG: Predicted in 34.732000 milli-seconds.
+broadleaf: 77%
+broadleaf: 42%
+broadleaf: 84%
+broadleaf: 38%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155718_039_R.JPG: Predicted in 34.610000 milli-seconds.
+broadleaf: 74%
+broadleaf: 48%
+broadleaf: 42%
+broadleaf: 48%
+broadleaf: 38%
+broadleaf: 75%
+broadleaf: 48%
+broadleaf: 67%
+broadleaf: 69%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155719_039_R.JPG: Predicted in 35.753000 milli-seconds.
+broadleaf: 99%
+broadleaf: 44%
+broadleaf: 74%
+broadleaf: 95%
+broadleaf: 25%
+broadleaf: 98%
+broadleaf: 80%
+broadleaf: 26%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155720_039_R.JPG: Predicted in 35.096000 milli-seconds.
+broadleaf: 32%
+broadleaf: 76%
+broadleaf: 25%
+broadleaf: 77%
+broadleaf: 99%
+broadleaf: 26%
+broadleaf: 51%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155721_039_R.JPG: Predicted in 35.880000 milli-seconds.
+broadleaf: 40%
+broadleaf: 66%
+broadleaf: 85%
+broadleaf: 94%
+broadleaf: 62%
+broadleaf: 75%
+broadleaf: 85%
+broadleaf: 28%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155722_040_R.JPG: Predicted in 34.964000 milli-seconds.
+broadleaf: 42%
+broadleaf: 95%
+broadleaf: 94%
+broadleaf: 94%
+broadleaf: 30%
+broadleaf: 93%
+broadleaf: 48%
+broadleaf: 37%
+broadleaf: 43%
+broadleaf: 58%
+broadleaf: 77%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155723_041_R.JPG: Predicted in 33.343000 milli-seconds.
+broadleaf: 85%
+broadleaf: 93%
+broadleaf: 87%
+broadleaf: 100%
+broadleaf: 89%
+broadleaf: 56%
+broadleaf: 87%
+broadleaf: 95%
+broadleaf: 44%
+broadleaf: 53%
+broadleaf: 95%
+broadleaf: 100%
+broadleaf: 32%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155724_042_R.JPG: Predicted in 32.359000 milli-seconds.
+broadleaf: 33%
+broadleaf: 49%
+broadleaf: 86%
+broadleaf: 100%
+broadleaf: 68%
+broadleaf: 100%
+broadleaf: 42%
+broadleaf: 35%
+broadleaf: 97%
+broadleaf: 30%
+broadleaf: 68%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155725_049_R.JPG: Predicted in 29.694000 milli-seconds.
+broadleaf: 87%
+broadleaf: 94%
+broadleaf: 100%
+broadleaf: 51%
+broadleaf: 94%
+broadleaf: 38%
+broadleaf: 59%
+broadleaf: 38%
+broadleaf: 34%
+broadleaf: 43%
+broadleaf: 50%
+broadleaf: 92%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155733_019_R.JPG: Predicted in 30.457000 milli-seconds.
+broadleaf: 92%
+broadleaf: 78%
+broadleaf: 84%
+broadleaf: 72%
+broadleaf: 96%
+broadleaf: 57%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155734_019_R.JPG: Predicted in 31.833000 milli-seconds.
+broadleaf: 89%
+broadleaf: 73%
+broadleaf: 98%
+broadleaf: 94%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155735_020_R.JPG: Predicted in 30.643000 milli-seconds.
+broadleaf: 49%
+broadleaf: 86%
+broadleaf: 98%
+broadleaf: 49%
+broadleaf: 90%
+broadleaf: 96%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155736_021_R.JPG: Predicted in 32.711000 milli-seconds.
+broadleaf: 75%
+broadleaf: 27%
+broadleaf: 100%
+broadleaf: 42%
+broadleaf: 97%
+broadleaf: 37%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155737_022_R.JPG: Predicted in 30.134000 milli-seconds.
+broadleaf: 36%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 75%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155738_029_R.JPG: Predicted in 32.161000 milli-seconds.
+broadleaf: 43%
+broadleaf: 66%
+broadleaf: 75%
+broadleaf: 100%
+broadleaf: 44%
+broadleaf: 93%
+broadleaf: 75%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155739_029_R.JPG: Predicted in 30.056000 milli-seconds.
+broadleaf: 80%
+broadleaf: 79%
+broadleaf: 61%
+broadleaf: 73%
+broadleaf: 75%
+broadleaf: 35%
+broadleaf: 58%
+broadleaf: 44%
+broadleaf: 71%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155740_029_R.JPG: Predicted in 30.517000 milli-seconds.
+broadleaf: 34%
+broadleaf: 36%
+broadleaf: 28%
+broadleaf: 62%
+broadleaf: 49%
+broadleaf: 52%
+broadleaf: 85%
+broadleaf: 90%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155741_029_R.JPG: Predicted in 30.539000 milli-seconds.
+broadleaf: 32%
+broadleaf: 74%
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 66%
+broadleaf: 72%
+broadleaf: 68%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155749_039_R.JPG: Predicted in 30.989000 milli-seconds.
+broadleaf: 44%
+broadleaf: 38%
+broadleaf: 98%
+broadleaf: 83%
+broadleaf: 88%
+broadleaf: 95%
+broadleaf: 85%
+broadleaf: 67%
+broadleaf: 25%
+broadleaf: 60%
+broadleaf: 49%
+broadleaf: 42%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155818_029_R.JPG: Predicted in 30.977000 milli-seconds.
+broadleaf: 29%
+broadleaf: 31%
+broadleaf: 32%
+broadleaf: 31%
+broadleaf: 92%
+broadleaf: 80%
+broadleaf: 75%
+broadleaf: 78%
+broadleaf: 53%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155819_030_R.JPG: Predicted in 30.979000 milli-seconds.
+broadleaf: 65%
+broadleaf: 77%
+broadleaf: 54%
+broadleaf: 74%
+broadleaf: 37%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155820_031_R.JPG: Predicted in 30.091000 milli-seconds.
+broadleaf: 50%
+broadleaf: 28%
+broadleaf: 67%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155821_032_R.JPG: Predicted in 30.051000 milli-seconds.
+broadleaf: 30%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155822_039_R.JPG: Predicted in 30.453000 milli-seconds.
+broadleaf: 32%
+broadleaf: 32%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155823_039_R.JPG: Predicted in 30.169000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155824_039_R.JPG: Predicted in 30.561000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155825_039_R.JPG: Predicted in 32.828000 milli-seconds.
+broadleaf: 32%
+broadleaf: 48%
+broadleaf: 40%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155826_039_R.JPG: Predicted in 31.089000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155827_039_R.JPG: Predicted in 31.012000 milli-seconds.
+broadleaf: 30%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155828_039_R.JPG: Predicted in 30.554000 milli-seconds.
+broadleaf: 66%
+broadleaf: 97%
+broadleaf: 83%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155924_029_R.JPG: Predicted in 31.123000 milli-seconds.
+broadleaf: 95%
+broadleaf: 77%
+broadleaf: 99%
+broadleaf: 75%
+broadleaf: 89%
+broadleaf: 83%
+broadleaf: 82%
+broadleaf: 98%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155925_031_R.JPG: Predicted in 30.601000 milli-seconds.
+broadleaf: 58%
+broadleaf: 62%
+broadleaf: 92%
+broadleaf: 90%
+broadleaf: 48%
+broadleaf: 97%
+broadleaf: 57%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155926_032_R.JPG: Predicted in 31.528000 milli-seconds.
+broadleaf: 78%
+broadleaf: 83%
+broadleaf: 75%
+broadleaf: 90%
+broadleaf: 99%
+broadleaf: 80%
+broadleaf: 65%
+broadleaf: 45%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155927_033_R.JPG: Predicted in 30.488000 milli-seconds.
+broadleaf: 63%
+broadleaf: 65%
+broadleaf: 90%
+broadleaf: 44%
+broadleaf: 96%
+broadleaf: 98%
+broadleaf: 30%
+broadleaf: 56%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155928_039_R.JPG: Predicted in 30.756000 milli-seconds.
+broadleaf: 30%
+broadleaf: 92%
+broadleaf: 99%
+broadleaf: 64%
+broadleaf: 83%
+broadleaf: 67%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155929_039_R.JPG: Predicted in 31.253000 milli-seconds.
+broadleaf: 49%
+broadleaf: 68%
+broadleaf: 90%
+broadleaf: 47%
+broadleaf: 40%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155930_039_R.JPG: Predicted in 33.872000 milli-seconds.
+broadleaf: 66%
+broadleaf: 64%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155931_039_R.JPG: Predicted in 30.618000 milli-seconds.
+broadleaf: 77%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155932_039_R.JPG: Predicted in 30.658000 milli-seconds.
+broadleaf: 62%
+broadleaf: 100%
+broadleaf: 48%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155933_039_R.JPG: Predicted in 30.554000 milli-seconds.
+broadleaf: 92%
+broadleaf: 80%
+broadleaf: 32%
+broadleaf: 95%
+broadleaf: 91%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155934_039_R.JPG: Predicted in 30.857000 milli-seconds.
+broadleaf: 67%
+broadleaf: 78%
+broadleaf: 84%
+broadleaf: 25%
+broadleaf: 82%
+broadleaf: 44%
+broadleaf: 99%
+broadleaf: 35%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155939_049_R.JPG: Predicted in 31.027000 milli-seconds.
+broadleaf: 41%
+broadleaf: 93%
+broadleaf: 79%
+broadleaf: 82%
+broadleaf: 61%
+broadleaf: 54%
+broadleaf: 45%
+broadleaf: 73%
+broadleaf: 77%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155940_049_R.JPG: Predicted in 30.989000 milli-seconds.
+broadleaf: 32%
+broadleaf: 42%
+broadleaf: 53%
+broadleaf: 28%
+broadleaf: 92%
+broadleaf: 60%
+broadleaf: 65%
+broadleaf: 73%
+broadleaf: 33%
+broadleaf: 87%
+broadleaf: 40%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155941_049_R.JPG: Predicted in 31.500000 milli-seconds.
+broadleaf: 36%
+broadleaf: 93%
+broadleaf: 76%
+broadleaf: 44%
+broadleaf: 79%
+broadleaf: 76%
+broadleaf: 30%
+broadleaf: 93%
+broadleaf: 52%
+broadleaf: 99%
+broadleaf: 94%
+broadleaf: 48%
+broadleaf: 88%
+broadleaf: 32%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155942_049_R.JPG: Predicted in 32.149000 milli-seconds.
+broadleaf: 91%
+broadleaf: 100%
+broadleaf: 75%
+broadleaf: 44%
+broadleaf: 92%
+broadleaf: 56%
+broadleaf: 89%
+broadleaf: 50%
+broadleaf: 60%
+broadleaf: 55%
+broadleaf: 76%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155943_049_R.JPG: Predicted in 31.728000 milli-seconds.
+broadleaf: 28%
+broadleaf: 70%
+broadleaf: 30%
+broadleaf: 58%
+broadleaf: 76%
+broadleaf: 30%
+broadleaf: 74%
+broadleaf: 37%
+broadleaf: 88%
+broadleaf: 58%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155944_049_R.JPG: Predicted in 30.818000 milli-seconds.
+broadleaf: 62%
+broadleaf: 31%
+broadleaf: 81%
+broadleaf: 90%
+broadleaf: 62%
+broadleaf: 28%
+broadleaf: 26%
+broadleaf: 82%
+broadleaf: 46%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155945_019_R.JPG: Predicted in 30.195000 milli-seconds.
+broadleaf: 91%
+broadleaf: 98%
+broadleaf: 71%
+broadleaf: 56%
+broadleaf: 46%
+broadleaf: 39%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155946_019_R.JPG: Predicted in 32.563000 milli-seconds.
+broadleaf: 80%
+broadleaf: 32%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155947_019_R.JPG: Predicted in 32.080000 milli-seconds.
+broadleaf: 93%
+broadleaf: 26%
+broadleaf: 45%
+broadleaf: 28%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155948_021_R.JPG: Predicted in 30.640000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155949_022_R.JPG: Predicted in 30.822000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155950_023_R.JPG: Predicted in 32.096000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155951_023_R.JPG: Predicted in 30.328000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155952_029_R.JPG: Predicted in 30.260000 milli-seconds.
+broadleaf: 41%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155953_029_R.JPG: Predicted in 29.892000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155954_029_R.JPG: Predicted in 30.402000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155955_029_R.JPG: Predicted in 30.104000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155956_029_R.JPG: Predicted in 30.325000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155957_029_R.JPG: Predicted in 30.789000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155958_031_R.JPG: Predicted in 30.277000 milli-seconds.
+broadleaf: 69%
+broadleaf: 36%
+broadleaf: 67%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_155959_032_R.JPG: Predicted in 31.129000 milli-seconds.
+broadleaf: 100%
+broadleaf: 86%
+broadleaf: 36%
+broadleaf: 62%
+broadleaf: 84%
+broadleaf: 73%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160000_033_R.JPG: Predicted in 30.194000 milli-seconds.
+broadleaf: 38%
+broadleaf: 100%
+broadleaf: 62%
+broadleaf: 98%
+broadleaf: 99%
+broadleaf: 86%
+broadleaf: 40%
+broadleaf: 51%
+broadleaf: 44%
+broadleaf: 79%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160001_034_R.JPG: Predicted in 29.648000 milli-seconds.
+broadleaf: 65%
+broadleaf: 100%
+broadleaf: 100%
+broadleaf: 99%
+broadleaf: 61%
+broadleaf: 84%
+broadleaf: 87%
+broadleaf: 93%
+broadleaf: 76%
+broadleaf: 99%
+broadleaf: 92%
+broadleaf: 28%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160002_039_R.JPG: Predicted in 30.158000 milli-seconds.
+broadleaf: 100%
+broadleaf: 38%
+broadleaf: 85%
+broadleaf: 83%
+broadleaf: 87%
+broadleaf: 91%
+broadleaf: 75%
+broadleaf: 96%
+broadleaf: 87%
+broadleaf: 55%
+broadleaf: 98%
+broadleaf: 62%
+broadleaf: 67%
+broadleaf: 59%
+broadleaf: 31%
+broadleaf: 28%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160003_039_R.JPG: Predicted in 32.020000 milli-seconds.
+broadleaf: 39%
+broadleaf: 94%
+broadleaf: 96%
+broadleaf: 27%
+broadleaf: 67%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 60%
+broadleaf: 80%
+broadleaf: 80%
+broadleaf: 79%
+broadleaf: 97%
+broadleaf: 95%
+broadleaf: 98%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160013_049_R.JPG: Predicted in 30.781000 milli-seconds.
+broadleaf: 36%
+broadleaf: 82%
+broadleaf: 79%
+broadleaf: 96%
+broadleaf: 87%
+broadleaf: 46%
+broadleaf: 42%
+broadleaf: 99%
+broadleaf: 90%
+broadleaf: 91%
+broadleaf: 98%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160014_049_R.JPG: Predicted in 30.759000 milli-seconds.
+broadleaf: 99%
+broadleaf: 99%
+broadleaf: 80%
+broadleaf: 76%
+broadleaf: 42%
+broadleaf: 55%
+broadleaf: 99%
+broadleaf: 25%
+broadleaf: 86%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160015_049_R.JPG: Predicted in 30.708000 milli-seconds.
+broadleaf: 81%
+broadleaf: 98%
+broadleaf: 47%
+broadleaf: 94%
+broadleaf: 76%
+broadleaf: 45%
+broadleaf: 78%
+broadleaf: 93%
+broadleaf: 66%
+broadleaf: 33%
+broadleaf: 84%
+broadleaf: 100%
+broadleaf: 88%
+broadleaf: 88%
+broadleaf: 85%
+broadleaf: 47%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160016_049_R.JPG: Predicted in 37.779000 milli-seconds.
+broadleaf: 36%
+broadleaf: 68%
+broadleaf: 90%
+broadleaf: 60%
+broadleaf: 41%
+broadleaf: 97%
+broadleaf: 52%
+broadleaf: 99%
+broadleaf: 98%
+broadleaf: 96%
+broadleaf: 31%
+broadleaf: 76%
+broadleaf: 75%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160017_049_R.JPG: Predicted in 30.670000 milli-seconds.
+broadleaf: 93%
+broadleaf: 76%
+broadleaf: 95%
+broadleaf: 56%
+broadleaf: 51%
+broadleaf: 99%
+broadleaf: 100%
+broadleaf: 59%
+broadleaf: 32%
+broadleaf: 62%
+broadleaf: 98%
+broadleaf: 100%
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160018_020_R.JPG: Predicted in 30.742000 milli-seconds.
+broadleaf: 94%
+broadleaf: 27%
+broadleaf: 93%
+broadleaf: 41%
+broadleaf: 98%
+broadleaf: 96%
+broadleaf: 37%
+broadleaf: 98%
+broadleaf: 53%
+broadleaf: 95%
+broadleaf: 89%
+broadleaf: 78%
+broadleaf: 67%
+broadleaf: 100%
+broadleaf: 93%
+broadleaf: 30%
+broadleaf: 84%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160028_029_R.JPG: Predicted in 33.675000 milli-seconds.
+broadleaf: 94%
+broadleaf: 99%
+broadleaf: 38%
+broadleaf: 90%
+broadleaf: 67%
+broadleaf: 95%
+broadleaf: 73%
+broadleaf: 37%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160029_029_R.JPG: Predicted in 30.596000 milli-seconds.
+broadleaf: 100%
+broadleaf: 90%
+broadleaf: 69%
+broadleaf: 79%
+broadleaf: 72%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160030_029_R.JPG: Predicted in 31.148000 milli-seconds.
+broadleaf: 27%
+broadleaf: 53%
+broadleaf: 36%
+broadleaf: 28%
+broadleaf: 37%
+broadleaf: 54%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160031_029_R.JPG: Predicted in 30.876000 milli-seconds.
+broadleaf: 61%
+broadleaf: 82%
+broadleaf: 61%
+broadleaf: 57%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160032_029_R.JPG: Predicted in 31.043000 milli-seconds.
+broadleaf: 79%
+broadleaf: 96%
+broadleaf: 90%
+broadleaf: 38%
+broadleaf: 83%
+broadleaf: 46%
+broadleaf: 94%
+broadleaf: 64%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160122_049_R.JPG: Predicted in 30.781000 milli-seconds.
+broadleaf: 54%
+broadleaf: 39%
+broadleaf: 72%
+broadleaf: 80%
+broadleaf: 75%
+broadleaf: 99%
+broadleaf: 56%
+broadleaf: 30%
+broadleaf: 60%
+broadleaf: 40%
+broadleaf: 77%
+broadleaf: 35%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160135_029_R.JPG: Predicted in 31.626000 milli-seconds.
+broadleaf: 43%
+broadleaf: 52%
+broadleaf: 44%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160136_029_R.JPG: Predicted in 30.532000 milli-seconds.
+broadleaf: 37%
+broadleaf: 28%
+broadleaf: 42%
+broadleaf: 44%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160137_029_R.JPG: Predicted in 30.266000 milli-seconds.
+broadleaf: 81%
+broadleaf: 34%
+broadleaf: 48%
+broadleaf: 65%
+broadleaf: 80%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160138_031_R.JPG: Predicted in 31.078000 milli-seconds.
+broadleaf: 73%
+broadleaf: 50%
+broadleaf: 42%
+broadleaf: 59%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160139_032_R.JPG: Predicted in 30.945000 milli-seconds.
+broadleaf: 32%
+broadleaf: 38%
+broadleaf: 69%
+broadleaf: 26%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160140_031_R.JPG: Predicted in 30.484000 milli-seconds.
+broadleaf: 68%
+broadleaf: 77%
+broadleaf: 74%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160141_032_R.JPG: Predicted in 30.476000 milli-seconds.
+broadleaf: 57%
+broadleaf: 71%
+broadleaf: 84%
+broadleaf: 36%
+broadleaf: 64%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160142_039_R.JPG: Predicted in 31.310000 milli-seconds.
+broadleaf: 76%
+broadleaf: 48%
+broadleaf: 45%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160143_039_R.JPG: Predicted in 30.402000 milli-seconds.
+broadleaf: 26%
+broadleaf: 27%
+broadleaf: 75%
+broadleaf: 27%
+broadleaf: 85%
+broadleaf: 46%
+broadleaf: 30%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160144_039_R.JPG: Predicted in 30.794000 milli-seconds.
+broadleaf: 47%
+broadleaf: 32%
+broadleaf: 34%
+broadleaf: 63%
+broadleaf: 66%
+broadleaf: 34%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160145_039_R.JPG: Predicted in 29.911000 milli-seconds.
+broadleaf: 52%
+broadleaf: 35%
+broadleaf: 62%
+broadleaf: 95%
+broadleaf: 55%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160146_039_R.JPG: Predicted in 30.743000 milli-seconds.
+broadleaf: 75%
+broadleaf: 56%
+broadleaf: 36%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160147_039_R.JPG: Predicted in 30.378000 milli-seconds.
+broadleaf: 83%
+broadleaf: 97%
+broadleaf: 49%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160148_039_R.JPG: Predicted in 32.499000 milli-seconds.
+broadleaf: 27%
+broadleaf: 79%
+broadleaf: 46%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160149_040_R.JPG: Predicted in 33.570000 milli-seconds.
+broadleaf: 44%
+broadleaf: 33%
+broadleaf: 63%
+broadleaf: 79%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160150_041_R.JPG: Predicted in 31.085000 milli-seconds.
+broadleaf: 32%
+broadleaf: 93%
+broadleaf: 64%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160151_044_R.JPG: Predicted in 30.649000 milli-seconds.
+broadleaf: 31%
+broadleaf: 28%
+broadleaf: 70%
+broadleaf: 45%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160152_049_R.JPG: Predicted in 30.624000 milli-seconds.
+broadleaf: 40%
+broadleaf: 84%
+broadleaf: 38%
+broadleaf: 51%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160153_049_R.JPG: Predicted in 30.624000 milli-seconds.
+broadleaf: 27%
+broadleaf: 46%
+broadleaf: 78%
+broadleaf: 27%
+broadleaf: 45%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160154_049_R.JPG: Predicted in 30.925000 milli-seconds.
+broadleaf: 73%
+broadleaf: 66%
+broadleaf: 82%
+broadleaf: 73%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160155_049_R.JPG: Predicted in 30.147000 milli-seconds.
+broadleaf: 99%
+broadleaf: 34%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160156_049_R.JPG: Predicted in 30.327000 milli-seconds.
+broadleaf: 99%
+broadleaf: 77%
+broadleaf: 53%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160157_049_R.JPG: Predicted in 34.290000 milli-seconds.
+broadleaf: 30%
+broadleaf: 56%
+broadleaf: 50%
+broadleaf: 53%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160158_051_R.JPG: Predicted in 30.708000 milli-seconds.
+broadleaf: 25%
+broadleaf: 97%
+broadleaf: 38%
+broadleaf: 81%
+broadleaf: 61%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160159_019_R.JPG: Predicted in 30.741000 milli-seconds.
+broadleaf: 46%
+broadleaf: 33%
+broadleaf: 37%
+broadleaf: 69%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160200_019_R.JPG: Predicted in 30.720000 milli-seconds.
+broadleaf: 40%
+broadleaf: 95%
+broadleaf: 55%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160201_019_R.JPG: Predicted in 32.417000 milli-seconds.
+broadleaf: 80%
+broadleaf: 44%
+broadleaf: 63%
+broadleaf: 55%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160202_019_R.JPG: Predicted in 34.308000 milli-seconds.
+broadleaf: 48%
+broadleaf: 36%
+broadleaf: 90%
+broadleaf: 43%
+broadleaf: 84%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160203_020_R.JPG: Predicted in 30.141000 milli-seconds.
+broadleaf: 27%
+broadleaf: 94%
+broadleaf: 54%
+broadleaf: 45%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160204_021_R.JPG: Predicted in 30.703000 milli-seconds.
+broadleaf: 46%
+broadleaf: 33%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160205_029_R.JPG: Predicted in 30.618000 milli-seconds.
+broadleaf: 83%
+broadleaf: 54%
+broadleaf: 83%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160206_029_R.JPG: Predicted in 30.388000 milli-seconds.
+broadleaf: 64%
+broadleaf: 31%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160207_029_R.JPG: Predicted in 30.972000 milli-seconds.
+broadleaf: 52%
+broadleaf: 31%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160208_029_R.JPG: Predicted in 30.182000 milli-seconds.
+broadleaf: 30%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160209_029_R.JPG: Predicted in 31.021000 milli-seconds.
+broadleaf: 29%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160210_029_R.JPG: Predicted in 33.912000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160211_029_R.JPG: Predicted in 31.697000 milli-seconds.
+broadleaf: 58%
+broadleaf: 89%
+broadleaf: 60%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160212_031_R.JPG: Predicted in 30.622000 milli-seconds.
+broadleaf: 42%
+broadleaf: 75%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160213_032_R.JPG: Predicted in 30.466000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160214_033_R.JPG: Predicted in 30.813000 milli-seconds.
+broadleaf: 77%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160215_039_R.JPG: Predicted in 30.704000 milli-seconds.
+broadleaf: 55%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160216_039_R.JPG: Predicted in 30.403000 milli-seconds.
+broadleaf: 62%
+broadleaf: 75%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160217_039_R.JPG: Predicted in 32.701000 milli-seconds.
+broadleaf: 48%
+broadleaf: 89%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160218_039_R.JPG: Predicted in 30.696000 milli-seconds.
+broadleaf: 63%
+broadleaf: 31%
+broadleaf: 97%
+broadleaf: 77%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160219_039_R.JPG: Predicted in 31.206000 milli-seconds.
+broadleaf: 98%
+broadleaf: 67%
+broadleaf: 59%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160220_039_R.JPG: Predicted in 30.640000 milli-seconds.
+broadleaf: 48%
+broadleaf: 32%
+broadleaf: 28%
+broadleaf: 33%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160221_039_R.JPG: Predicted in 37.537000 milli-seconds.
+broadleaf: 98%
+broadleaf: 57%
+broadleaf: 45%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160224_043_R.JPG: Predicted in 32.214000 milli-seconds.
+broadleaf: 99%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160225_049_R.JPG: Predicted in 30.726000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160226_049_R.JPG: Predicted in 30.194000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160227_049_R.JPG: Predicted in 30.273000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160228_049_R.JPG: Predicted in 31.375000 milli-seconds.
+broadleaf: 48%
+broadleaf: 91%
+broadleaf: 64%
+broadleaf: 49%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160229_049_R.JPG: Predicted in 33.170000 milli-seconds.
+broadleaf: 82%
+broadleaf: 33%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160230_049_R.JPG: Predicted in 31.884000 milli-seconds.
+broadleaf: 50%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160231_049_R.JPG: Predicted in 31.175000 milli-seconds.
+broadleaf: 73%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160245_029_R.JPG: Predicted in 30.820000 milli-seconds.
+broadleaf: 26%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160246_030_R.JPG: Predicted in 32.951000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160247_031_R.JPG: Predicted in 30.141000 milli-seconds.
+broadleaf: 31%
+broadleaf: 28%
+broadleaf: 26%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160248_032_R.JPG: Predicted in 31.485000 milli-seconds.
+broadleaf: 25%
+broadleaf: 25%
+broadleaf: 39%
+broadleaf: 46%
+broadleaf: 45%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160249_039_R.JPG: Predicted in 30.673000 milli-seconds.
+broadleaf: 26%
+broadleaf: 25%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160250_039_R.JPG: Predicted in 30.602000 milli-seconds.
+broadleaf: 31%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160251_039_R.JPG: Predicted in 31.680000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160252_039_R.JPG: Predicted in 30.647000 milli-seconds.
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160253_039_R.JPG: Predicted in 30.374000 milli-seconds.
+broadleaf: 33%
+broadleaf: 89%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160254_039_R.JPG: Predicted in 30.806000 milli-seconds.
+broadleaf: 91%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160255_039_R.JPG: Predicted in 31.700000 milli-seconds.
+broadleaf: 87%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160256_040_R.JPG: Predicted in 30.384000 milli-seconds.
+broadleaf: 90%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160257_041_R.JPG: Predicted in 31.703000 milli-seconds.
+broadleaf: 80%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160258_042_R.JPG: Predicted in 31.200000 milli-seconds.
+broadleaf: 77%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160259_049_R.JPG: Predicted in 35.160000 milli-seconds.
+broadleaf: 88%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160300_049_R.JPG: Predicted in 34.240000 milli-seconds.
+broadleaf: 80%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160301_049_R.JPG: Predicted in 33.161000 milli-seconds.
+broadleaf: 76%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160302_049_R.JPG: Predicted in 33.084000 milli-seconds.
+broadleaf: 74%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160303_049_R.JPG: Predicted in 33.676000 milli-seconds.
+broadleaf: 79%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160304_049_R.JPG: Predicted in 34.364000 milli-seconds.
+broadleaf: 76%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160305_019_R.JPG: Predicted in 33.087000 milli-seconds.
+broadleaf: 78%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160306_019_R.JPG: Predicted in 31.467000 milli-seconds.
+broadleaf: 74%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160307_019_R.JPG: Predicted in 33.433000 milli-seconds.
+broadleaf: 27%
+broadleaf: 71%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160308_021_R.JPG: Predicted in 33.450000 milli-seconds.
+broadleaf: 84%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160309_022_R.JPG: Predicted in 34.515000 milli-seconds.
+broadleaf: 85%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160310_022_R.JPG: Predicted in 33.260000 milli-seconds.
+broadleaf: 70%
+broadleaf: 56%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160311_024_R.JPG: Predicted in 34.296000 milli-seconds.
+broadleaf: 52%
+broadleaf: 69%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160312_029_R.JPG: Predicted in 36.437000 milli-seconds.
+broadleaf: 67%
+broadleaf: 70%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160313_029_R.JPG: Predicted in 34.004000 milli-seconds.
+broadleaf: 73%
+broadleaf: 66%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160314_029_R.JPG: Predicted in 32.277000 milli-seconds.
+broadleaf: 71%
+broadleaf: 81%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160315_029_R.JPG: Predicted in 33.983000 milli-seconds.
+broadleaf: 48%
+broadleaf: 74%
+Enter Image Path: /home/aj/ACRE_test_52219/20190522_160316_029_R.JPG: Predicted in 35.319000 milli-seconds.
+broadleaf: 28%
+broadleaf: 72%
+Enter Image Path: 
